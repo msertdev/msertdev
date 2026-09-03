@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Murat Sert</h1>
 
-<!--
-**msertdev/msertdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Founder @ <a href="https://kelyvaro.com">Kelyvaro</a><br>
+  AI • Automation • Full-Stack • Game Development
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building products from idea to production.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+
+I'm a founder and developer focused on building practical products with
+AI, automation and modern software technologies.
+
+Currently building **Kelyvaro** and experimenting with AI agents,
+automation systems, web products and interactive experiences.
+
+### Current Focus
+
+- 🚀 Building **Kelyvaro**
+- 🤖 AI Agents & Automation
+- 🌐 Full-Stack Product Development
+- 🎮 Game Development
+- 🧪 Experimental Software Projects
+
+### Tech
+
+`Python` · `TypeScript` · `JavaScript` · `Next.js` · `React` · `Supabase` ·
+`Git` · `Docker` · `Unreal Engine` · `AI APIs`
+
+---
+
+<p align="center">
+  <a href="https://kelyvaro.com">Website</a> •
+  <a href="https://www.linkedin.com/in/kelyvaro/">LinkedIn</a> •
+  <a href="https://www.instagram.com/kelyvaro_/">Instagram</a>
+</p>
