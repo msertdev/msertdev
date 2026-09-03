@@ -1,41 +1,33 @@
 <h1 align="center">Murat Sert</h1>
 
 <p align="center">
-  Founder @ <a href="https://kelyvaro.com">Kelyvaro</a><br>
-  AI • Automation • Full-Stack • Game Development
-</p>
-
-<p align="center">
-  Building products from idea to production.
+  Founder &amp; developer — building <a href="https://kelyvaro.com"><b>Kelyvaro</b></a><br>
+  <sub>Karlsruhe · Türkçe / Deutsch / English</sub>
 </p>
 
 ---
 
-### About
+### What I'm building
 
-I'm a founder and developer focused on building practical products with
-AI, automation and modern software technologies.
+**[Kelyvaro](https://kelyvaro.com)** helps Turkish job seekers apply to jobs in Germany without an intermediary: one profile, matched postings from employer career sites, a tailored German CV and cover letter for every posting, and sending from the user's own Gmail — with the user approving every application.
 
-Currently building **Kelyvaro** and experimenting with AI agents,
-automation systems, web products and interactive experiences.
+Live since August 2026. Product walkthrough with screenshots: **[kelyvaro-showcase](https://github.com/msertdev/kelyvaro-showcase)**.
 
-### Current Focus
+Some of the engineering behind it:
 
-- 🚀 Building **Kelyvaro**
-- 🤖 AI Agents & Automation
-- 🌐 Full-Stack Product Development
-- 🎮 Game Development
-- 🧪 Experimental Software Projects
+- a self-growing registry of employer applicant-tracking boards (Personio, SmartRecruiters, Greenhouse, Lever, Ashby, Recruitee, Workday, Oracle, softgarden …), discovered automatically from career pages and read hourly
+- fact-checked CV generation: the model only writes; every claim is verified against the profile, with prompt regression tests
+- an editorial design system (no cards, one accent, motion only where it explains something) rendered consistently on the site, in e-mails and in Remotion-generated launch videos
+- consent-gated measurement (GA4, Meta CAPI, PostHog EU) and RLS on every table
 
-### Tech
+### Stack
 
-`Python` · `TypeScript` · `JavaScript` · `Next.js` · `React` · `Supabase` ·
-`Git` · `Docker` · `Unreal Engine` · `AI APIs`
+`TypeScript` · `Next.js 15` · `React` · `Tailwind v4` · `Supabase / Postgres` · `Vercel` · `Playwright` · `Remotion` · `Python` · `Unreal Engine`
 
----
+### Elsewhere
 
-<p align="center">
-  <a href="https://kelyvaro.com">Website</a> •
-  <a href="https://www.linkedin.com/in/kelyvaro/">LinkedIn</a> •
+<p>
+  <a href="https://kelyvaro.com">Website</a> ·
+  <a href="https://www.linkedin.com/in/kelyvaro/">LinkedIn</a> ·
   <a href="https://www.instagram.com/kelyvaro_/">Instagram</a>
 </p>
