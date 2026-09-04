@@ -22,7 +22,7 @@ Some of the engineering behind it:
 
 ### Stack
 
-`TypeScript` · `Next.js 15` · `React` · `Tailwind v4` · `Supabase / Postgres` · `Vercel` · `Playwright` · `Remotion` · `Python` · `Unreal Engine`
+`TypeScript` · `JavaScript` · `Next.js 15` · `React` · `Node.js` · `HTML` · `CSS` · `Tailwind v4` · `Supabase / Postgres` · `Vercel` · `Playwright` · `Remotion` · `Python` · `Unreal Engine`
 
 ### Elsewhere
 
