@@ -1,33 +1,52 @@
 <h1 align="center">Murat Sert</h1>
 
 <p align="center">
-  Founder &amp; developer — building <a href="https://kelyvaro.com"><b>Kelyvaro</b></a><br>
-  <sub>Karlsruhe · Türkçe / Deutsch / English</sub>
+  Product engineer building trustworthy AI automation and data systems.<br>
+  Founder of <a href="https://kelyvaro.com"><b>Kelyvaro</b></a> — from first prototype to production.
+  <br><sub>Karlsruhe · Türkçe / Deutsch / English</sub>
 </p>
 
 ---
 
-### What I'm building
+### What I build
 
-**[Kelyvaro](https://kelyvaro.com)** helps Turkish job seekers apply to jobs in Germany without an intermediary: one profile, matched postings from employer career sites, a tailored German CV and cover letter for every posting, and sending from the user's own Gmail — with the user approving every application.
+I turn operational problems into products: finding and normalising data from
+unreliable external systems, generating documents without inventing facts, and
+shipping the result with clear consent and failure boundaries.
 
-Live since August 2026. Product walkthrough with screenshots: **[kelyvaro-showcase](https://github.com/msertdev/kelyvaro-showcase)**.
+**Current focus:** [Kelyvaro](https://kelyvaro.com), a live product that helps
+people in Turkey apply directly to German employers. It matches openings from
+employer career sites, prepares a German CV and cover letter for each role, and
+sends only after the user approves the application.
 
-Some of the engineering behind it:
+### Selected work
 
-- a self-growing registry of employer applicant-tracking boards (Personio, SmartRecruiters, Greenhouse, Lever, Ashby, Recruitee, Workday, Oracle, softgarden …), discovered automatically from career pages and read hourly
-- fact-checked CV generation: the model only writes; every claim is verified against the profile, with prompt regression tests
-- an editorial design system (no cards, one accent, motion only where it explains something) rendered consistently on the site, in e-mails and in Remotion-generated launch videos
-- consent-gated measurement (GA4, Meta CAPI, PostHog EU) and RLS on every table
+| Project | Problem | What I own | Proof |
+|---|---|---|---|
+| **[Kelyvaro](https://github.com/msertdev/kelyvaro-showcase)** | A careful German application takes too long and is easy to get wrong | Product and engineering: matching, fact-checked generation, consent, data model and design system | [Live product](https://kelyvaro.com) · [case study](https://github.com/msertdev/kelyvaro-showcase) |
+| **[ats-boards](https://github.com/msertdev/ats-boards)** | German employers publish jobs through incompatible ATS providers | A dependency-free TypeScript library and CLI that discovers and normalises public boards from 12 providers | [Source](https://github.com/msertdev/ats-boards) · [npm](https://www.npmjs.com/package/ats-boards) |
+| **[keepwatching](https://github.com/msertdev/keepwatching)** | Short-form format advice often presents guesses as measured facts | A deterministic renderer and evidence model that keeps hypotheses, samples and content effects separate | [Source](https://github.com/msertdev/keepwatching) · [live gallery](https://msertdev.github.io/keepwatching) |
+
+### Engineering decisions I care about
+
+- **Facts stay outside the model.** Generated CV claims are checked against the
+  user's profile; prompt changes have regression tests.
+- **Public integrations fail explicitly.** ATS results distinguish an empty
+  board from access, rate-limit and format failures.
+- **Consent is part of the architecture.** Applications require user approval;
+  analytics are consent-gated; database tables use row-level security.
+- **Evidence keeps its sample size.** `keepwatching` publishes untested formats
+  as untested and runs its date reader in four time zones.
 
 ### Stack
 
-`TypeScript` · `JavaScript` · `Next.js 15` · `React` · `Node.js` · `HTML` · `CSS` · `Tailwind v4` · `Supabase / Postgres` · `Vercel` · `Playwright` · `Remotion` · `Python` · `Unreal Engine`
+`TypeScript` · `Next.js` · `React` · `Node.js` · `Postgres / Supabase` ·
+`Playwright` · `Tailwind CSS` · `Vercel` · `Remotion`
 
-### Elsewhere
+### Contact
 
 <p>
   <a href="https://kelyvaro.com">Website</a> ·
   <a href="https://www.linkedin.com/in/kelyvaro/">LinkedIn</a> ·
-  <a href="https://www.instagram.com/kelyvaro_/">Instagram</a>
+  <a href="mailto:info@kelyvaro.com">Email</a>
 </p>
