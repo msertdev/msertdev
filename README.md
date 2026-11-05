@@ -5,6 +5,7 @@
   trustworthy AI automation, from the first prototype to production.
   <br><br>
   <a href="https://www.linkedin.com/in/msertdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-msertdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://codivaro.de"><img alt="Website" src="https://img.shields.io/badge/Web-codivaro.de-111111?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="mailto:info@codivaro.de"><img alt="Email" src="https://img.shields.io/badge/Email-info%40codivaro.de-3d6bff?style=flat-square&logo=maildotru&logoColor=white"></a>
   <a href="https://www.instagram.com/codivaro.de/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-codivaro.de-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/Karlsruhe-Germany-111111?style=flat-square">
@@ -15,7 +16,7 @@
 
 ### What I'm building
 
-**Codivaro** (launching soon at codivaro.de) is my software studio in Karlsruhe.
+**[Codivaro](https://codivaro.de)** is my software studio in Karlsruhe.
 I build websites, online shops, ordering systems, iOS/Android apps, business
 software and AI automation for small and mid-sized companies. One developer, a
 direct line, no call centre, and the code belongs to the client.
@@ -71,6 +72,7 @@ online shops. The source code is private and belongs to the clients.
 ### Contact
 
 Projects, collaboration or questions:
+[codivaro.de](https://codivaro.de) ·
 [LinkedIn](https://www.linkedin.com/in/msertdev/) ·
 [Instagram](https://www.instagram.com/codivaro.de/) ·
 [info@codivaro.de](mailto:info@codivaro.de) ·
