@@ -6,6 +6,7 @@
   <br><br>
   <a href="https://www.linkedin.com/in/msertdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-msertdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:info@kelyvaro.com"><img alt="Email" src="https://img.shields.io/badge/Email-info%40kelyvaro.com-3d6bff?style=flat-square&logo=maildotru&logoColor=white"></a>
+  <a href="https://www.instagram.com/codivaro.de/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-codivaro.de-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/Karlsruhe-Germany-111111?style=flat-square">
   <img alt="Languages" src="https://img.shields.io/badge/Türkçe%20·%20Deutsch%20·%20English-111111?style=flat-square">
 </p>
@@ -71,5 +72,6 @@ online shops. The source code is private and belongs to the clients.
 
 Projects, collaboration or questions:
 [LinkedIn](https://www.linkedin.com/in/msertdev/) ·
+[Instagram](https://www.instagram.com/codivaro.de/) ·
 [info@kelyvaro.com](mailto:info@kelyvaro.com) ·
 [kelyvaro.com](https://kelyvaro.com)
